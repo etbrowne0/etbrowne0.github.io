@@ -40,9 +40,9 @@
 
 ## Websites I Recommend
 
-* [YouTube](www.youtube.com) - Good for watching political, religious, or music production videos
-* [Reddit](www.reddit.com) - Forums on all kinds of topics
-* [ReasonTalk](www.reasontalk.com) - Forums on Music Production using _Reason_
-* [KVR](www.kvr.com) - Forums on Music Production in General
+* [YouTube](http://www.youtube.com) - Good for watching political, religious, or music production videos
+* [Reddit](http://www.reddit.com) - Forums on all kinds of topics
+* [ReasonTalk](http://www.reasontalk.com) - Forums on Music Production using _Reason_
+* [KVR](http://www.kvr.com) - Forums on Music Production in General
 
  
