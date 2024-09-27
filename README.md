@@ -26,7 +26,7 @@
 	* Thai
 	* Vietnamese
 	* Japanese
-	* Italian
+	* Italian  
 **and many more**
 
 * Church
