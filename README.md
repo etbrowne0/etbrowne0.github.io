@@ -7,8 +7,8 @@
 
 ##My Interests
 * Music Production  
- *I make Electronic Music
- *My DAW is _Reason_
+ * I make Electronic Music
+ * My DAW is _Reason_
 
 * Watching Movies
  * Action
