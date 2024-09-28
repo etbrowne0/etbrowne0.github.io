@@ -1,5 +1,4 @@
 ```mermaid
-flowchart TD
 ---
 title: Random Number Guessing Game
 config: 
