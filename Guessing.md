@@ -18,7 +18,7 @@ incorrect-->|Too High|printhi(Print 'Too High')
 incorrect-->|Too Low|printlow(Print 'Too Low')
 printlow-->user
 printhi-->user
-correct-->|Exception|wrongdt(Wrong Data Type) 
+correct-->|Exception|wrongdt(Print 'Wrong Data Type') 
 wrongdt--> user
 ```
 
@@ -33,4 +33,8 @@ wrongdt--> user
 			* No - Ends the game
 	* No
 		* Too High or Too Low?
+			* Too High - Outputs "Too High" and prompts the user to guess again.
+			* Too Low - Outputs "Too Low" and prompts the user to guess again.
+
 	* Exception
+		* 
