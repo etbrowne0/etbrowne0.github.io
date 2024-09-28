@@ -12,7 +12,7 @@ correct-->|Yes|outgood(Good job, you did it!)
 outgood-->play
 play(Play Again?)-->|Yes|Computer
 play-->|No|END(END)
-correct-->|no|incorrect(Too High or Too Low?)
+correct-->|No|incorrect(Too High or Too Low?)
 
 incorrect-->|Too High|printhi(Print 'Too High')
 incorrect-->|Too Low|printlow(Print 'Too Low')
@@ -22,7 +22,7 @@ correct-->|Exception|wrongdt(Print 'Wrong Data Type')
 wrongdt--> user
 ```
 
-# ABOUT THIS FLOWCHART
+### ABOUT THIS FLOWCHART
 
 * First step is to have the computer pick a number from 1-10  
 * The user then guesses what the answer is  
@@ -37,4 +37,4 @@ wrongdt--> user
 			* Too Low - Outputs "Too Low" and prompts the user to guess again.
 
 	* Exception
-		* 
+		* Outputs "Wrong Data Type" and prompts the user to try again
