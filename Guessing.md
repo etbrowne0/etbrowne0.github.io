@@ -20,5 +20,4 @@ printlow-->user
 printhi-->user
 correct-->|Exception|wrongdt(Wrong Data Type) 
 wrongdt--> user
-Start([Start]) --> End([End])
 ```
