@@ -21,3 +21,16 @@ printhi-->user
 correct-->|Exception|wrongdt(Wrong Data Type) 
 wrongdt--> user
 ```
+
+# ABOUT THIS FLOWCHART
+
+* First step is to have the computer pick a number from 1-10  
+* The user then guesses what the answer is  
+* Is the answer correct?
+	* Yes
+		* Output "Good Job! Play Again?"
+			* Yes - Computer picks a new number.
+			* No - Ends the game
+	* No
+		* Too High or Too Low?
+	* Exception
